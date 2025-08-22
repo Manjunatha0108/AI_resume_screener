@@ -1,0 +1,13 @@
+streamlit
+requests
+fastapi
+uvicorn[standard]
+python-dotenv
+pdfplumber
+google-generativeai
+motor
+scikit-learn
+pydantic
+bson
+python-multipart
+streamlit
